@@ -5,6 +5,8 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 
 @Entity
 public class Student {
@@ -25,18 +27,20 @@ public class Student {
 	@Column
 	private String country;
 	
-	// @Column
-	// private Status status; 
+	@ManyToOne
+	@JoinColumn
+	private Status status; 
 	
 	public Student() {
 		
 	}
 	
-	public Student(String name, int age, int zipCode, String country) {
+	public Student(String name, int age, int zipCode, String country, Status status) {
 		this.name = name;
 		this.age = age;
 		this.zipCode = zipCode;
 		this.country = country;
+		this.status = status;
 	}
 
 	public String getName() {
@@ -69,6 +73,14 @@ public class Student {
 
 	public void setCountry(String country) {
 		this.country = country;
+	}
+
+	public Status getStatus() {
+		return status;
+	}
+
+	public void setStatus(Status status) {
+		this.status = status;
 	}
 	
 
