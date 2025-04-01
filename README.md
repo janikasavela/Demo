@@ -23,8 +23,8 @@ Tutustuin vaadin kehykseen pikaisesti työnhaun yhteydessä. Sitä oli erittäin
 
 Lyhyt esittelyvideo: https://youtu.be/HzG2JMJXGls
 
-<img src="Kuva1.png" width="1250"/>
-<img src="Kuva2.png" width="1250"/>
-<img src="Kuva3.png" width="1250"/>
-<img src="Kuva4.png" width="1250"/>
-<img src="Kuva5.png" width="1250"/>
+<img src="Kuva1.png" width="1500"/>
+<img src="Kuva2.png" width="1500"/>
+<img src="Kuva3.png" width="1500"/>
+<img src="Kuva4.png" width="1500"/>
+<img src="Kuva5.png" width="1500"/>
