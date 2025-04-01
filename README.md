@@ -21,6 +21,8 @@ Taulujen välillä on liitos, kun käyttöliittymästä lisätään opiskelija, 
 
 Tutustuin vaadin kehykseen pikaisesti työnhaun yhteydessä. Sitä oli erittäin mukava käyttää, ja nautin tästä pikaisesta projektista suuresti, ja tulen varmasti jatkamaan aiemmin mainitut ominaisuudet siihen loppuun.
 
+Lyhyt esittelyvideo: https://youtu.be/HzG2JMJXGls
+
 <img src="Kuva1.png" width="1050"/>
 <img src="Kuva2.png" width="1050"/>
 <img src="Kuva3.png" width="1050"/>
