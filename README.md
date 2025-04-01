@@ -1,4 +1,4 @@
-Udemun kurssilla Java EE with Vaadin, JPA, Microservices, Spring and Maven kurssilla tekemäni harjoitustyö.
+Udemun Java EE with Vaadin, JPA, Microservices, Spring and Maven kurssilla tekemäni harjoitustyö.
 Teknologiat:
 
 - Vaadin (UI komponenteille)
