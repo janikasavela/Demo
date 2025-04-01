@@ -19,7 +19,7 @@ Opiskelijoiden tiedot lisätään ja haetaan tietokannasta, jona toimii MySQL.
 MySQL tietokannassa on kaksi taulua: student ja status.
 Taulujen välillä on liitos, kun käyttöliittymästä lisätään opiskelija, listataan vain status taulusta löytyvät vaihtoehdot status kenttään, joista opiskelijan statuksen voi valita.
 
-Tutustuin vaadin kehykseen pikaisesti työnhaun yhteydessä. Sitä oli erittäin mukava käyttää, ja nautin tästä pikaisesta projektista suuresti, ja tulen varmasti jatkamaan aiemmin mainitut ominaisuudet siihen loppuun.
+Tein harjoitusprojektin tutustumisena Vaadin kehykseen työnhaun yhteydessä. Vaadinia oli erittäin mukava käyttää, ja nautin tästä pikaisesta projektista suuresti, ja tulen varmasti jatkamaan aiemmin mainitut ominaisuudet siihen loppuun.
 
 Lyhyt esittelyvideo: https://youtu.be/HzG2JMJXGls
 
